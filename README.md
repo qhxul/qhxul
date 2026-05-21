@@ -2,7 +2,7 @@ Hi, I'm Bryan 👋
 
 I'm currently working as a Facility Maintenance Operator while transitioning into IT Support and Help Desk roles.
 
-Through my maintenance work, I've learned how to troubleshoot problems, communicate clearly, stay reliable, and follow through until an issue is fixed. I'm now applying that same problem solving mindset to technology by building hands on IT labs and improving my technical skills.
+Through my maintenance work, I've learned how to troubleshoot problems, communicate clearly, stay reliable, and follow through until an issue is fixed. I'm now applying that same problem-solving mindset to technology by building hands-on IT labs and improving my technical skills.
 
 What I'm Working On
 
